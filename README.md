@@ -1,11 +1,10 @@
 # AluraPlus
 
-projeto criado no curso de html e css da alura plus
-
+Projeto criado no curso de html e css da Alura 
 
  # linguagens utilizadas:
  html
-# css
+ css
 
 # software utilizado:
  Sublime text
